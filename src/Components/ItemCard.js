@@ -15,7 +15,7 @@ function ItemCard(props) {
                 </div>
             </div>
      </div>
-    )
-}
+    );
+} 
 
 export default ItemCard
